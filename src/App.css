@@ -1,0 +1,12 @@
+body {
+    /* Replace 'url_to_your_image.jpg' with the path to your image file */
+    /*background-image: url('https://www.boardandlife.com/wp-content/uploads/2019/09/monthly-expense-tracker-desk-space.jpg');*/
+    /* Set background size to cover entire viewport */
+    background-size: cover;
+
+    
+    /* Center the background image */
+   background-position: center;
+    /* Optionally, you can set a background color as fallback */
+   background-color: #ae2060; /* Light gray */
+  } 
